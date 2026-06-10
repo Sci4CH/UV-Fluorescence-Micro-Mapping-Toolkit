@@ -3,6 +3,7 @@
 A Python GUI toolkit for processing micro-mapping data from the **Ideaoptics Gora-Lite 405 nm UV Fluorescence Microscopy** system.
 
 This toolkit provides spectral preprocessing, range-based mapping, clustering analysis, ROI tools, interactive GUI visualization, and export of spectra, maps, and clustering results.
+
 ---
 
 ## Introduction
